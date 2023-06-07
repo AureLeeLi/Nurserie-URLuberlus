@@ -49,3 +49,7 @@ img{
     width:100%;
     border-radius: 35px 0px 35px 0px;
 }
+
+input{
+    box-shadow: 50 50 50 50 hsla(187, 100%, 89%, 1);
+}
